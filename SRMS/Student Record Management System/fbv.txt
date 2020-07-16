@@ -1,0 +1,9 @@
+for better view
+s.buff-
+
+w-108
+h-302
+
+win size
+wid-102
+h-27
